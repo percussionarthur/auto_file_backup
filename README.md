@@ -1,7 +1,5 @@
 # auto_file_backup
 
-Daily Folder Backup Script
-
 This Python script automates the daily backup of a specified folder to a backup directory. It schedules the task using the schedule library, with each backup stored in a subfolder named by the current date.
 
 Requirements:
